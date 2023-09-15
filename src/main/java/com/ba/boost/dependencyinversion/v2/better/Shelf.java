@@ -17,9 +17,9 @@ public class Shelf {
     *  high-level classes don’t depend on low-level classes, either.
      * */
 
-    Product product;
+    IProduct iProduct;
 
-    void addProduct(Product product) {
+    void addProduct(IProduct iProduct) {
 
     }
 
